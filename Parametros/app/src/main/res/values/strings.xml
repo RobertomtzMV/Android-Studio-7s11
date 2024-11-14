@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parametros</string>
+    <string name="lblA1Bienvenidos">P1 comunicacion activity</string>
+    <string name="btnA1Siguiente">Sig activity</string>
+</resources>
